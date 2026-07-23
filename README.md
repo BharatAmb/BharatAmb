@@ -1,178 +1,157 @@
 <div align="center">
 
+<img src="./assets/banner.png" width="100%" alt="Bharat Jatav Banner"/>
+
 # Hi 👋, I'm Bharat Jatav
 
-### 🚀 Frontend Developer | React.js • Next.js • TypeScript
+### Frontend Developer | React.js | Next.js | TypeScript
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+%7C+Next.js+Developer;TypeScript+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<p>
+<a href="https://github.com/BharatAmb">
+<img src="https://komarev.com/ghpvc/?username=BharatAmb&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-# 💻 MERN Developer
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,tailwind,git,github,vscode&perline=6"/>
-
-</p>
-
----
-
 # 👨‍💻 About Me
 
-```javascript
-const bharat = {
-    name: "Bharat Jatav",
-    location: "Gwalior, India",
-    role: "Frontend Developer",
-    experience: "2+ Years",
-    specialization: [
-        "React.js",
-        "Next.js",
-        "TypeScript"
-    ],
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-    currentlyWorkingOn: [
-        "Enterprise CRM",
-        "HR Management System",
-        "Ed-Tech Platforms"
-    ],
+- 💼 Frontend Developer with **2+ years** of experience.
 
-    learning: [
-        "Advanced Next.js",
-        "System Design",
-        "Performance Optimization"
-    ],
+- ⚛️ Specialized in **React.js**, **Next.js**, and **TypeScript**.
 
-    askMeAbout: [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "REST APIs",
-        "Frontend Architecture"
-    ]
-};
-```
+- 🚀 Building scalable CRM, HRMS, EdTech and E-Commerce applications.
+
+- 🔥 Strong experience with REST APIs, React Query, React Hook Form and Tailwind CSS.
+
+- 🌱 Currently learning **System Design**, **Performance Optimization** and advanced **Next.js**.
+
+- 🎯 Looking for exciting Frontend opportunities.
+
+- 📍 Gwalior, India
+
+<br clear="right"/>
 
 ---
 
-# 🚀 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css"/>
-</p>
+# 🚀 Skills
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui"/>
-</p>
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Material UI
+- Styled Components
+- Framer Motion
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- REST APIs
+- JWT Authentication
 
 ### Libraries
 
 - React Query (TanStack Query)
 - React Hook Form
 - React Router
-- Framer Motion
-- Styled Components
 - SheetJS
-- JWT Authentication
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Chrome DevTools
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,tailwind,materialui,git,github,vscode,postman&perline=7"/>
+
+</p>
 
 ---
 
 # 💼 Professional Experience
 
 ## 🚀 Frontend Developer
+
 ### Educerns Technologies Pvt Ltd
+
 **Aug 2025 – Present**
 
 ### Enterprise CRM
 
-✔️ Developed complete master-data modules
-
-✔️ Dynamic Forms
-
-✔️ GST Engine
-
-✔️ Inventory Reports
-
-✔️ Lead Management
-
-✔️ Quotation System
-
-✔️ Sales Orders
-
-✔️ Excel Export
-
-✔️ Server-side Pagination
-
-✔️ Dynamic PDF Generation
-
----
+- Built master data modules.
+- Dynamic quotation & invoice system.
+- GST calculation engine.
+- Inventory management.
+- Excel export using SheetJS.
+- Dynamic PDF generation.
+- Server-side pagination.
+- Lead management.
+- Sales order workflows.
 
 ### EduHR
 
-- Attendance
-- Employee Management
+- Employee onboarding
+- Attendance management
 - Dashboard
-- Role Based Access
-- Shared Components
-- Next.js Architecture
-
----
+- RBAC
+- Shared reusable components
 
 ### EduSkill
 
 - Faculty Portal
 - Student Portal
 - Admin Panel
-- Permission Based UI
-
----
+- Permission based UI
 
 ### EduTax
 
-- Document Upload
-- API Integration
-- React Query
-- Error Handling
+- Document upload
+- React Query integration
+- API integration
+- Error handling
 
 ---
 
 ## 🚀 Frontend Developer
+
 ### Aigetai Pvt Ltd
 
-Oct 2024 – Aug 2025
+**Oct 2024 – Aug 2025**
 
-- Healthcare E-Commerce
+- Healthcare E-Commerce Platform
 - Vendor Dashboard
 - Product Management
-- Cart System
+- Cart & Checkout
 - Google Maps Integration
-- Checkout Flow
 
 ---
 
 ## 🚀 Full Stack Developer Intern
+
 ### Numeric Infosystem Pvt Ltd
 
-Mar 2024 – Sept 2024
+**Mar 2024 – Sept 2024**
 
 - React.js
 - Node.js
@@ -182,27 +161,26 @@ Mar 2024 – Sept 2024
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 📚 Multi Institute Edu Platform
+## 🎓 Multi Institute Edu Platform
 
-✔️ Course Management
-
-✔️ Notes Distribution
-
-✔️ Teacher Portal
-
-✔️ Student Dashboard
-
-✔️ Role Based Access
+- Course Management
+- Teacher Portal
+- Student Dashboard
+- Notes Distribution
+- RBAC
 
 ---
 
-## ⌨️ Typing Mitra
+## 💻 CRM Platform
 
-- Real-time Typing
-- Dynamic UI
-- Data Mapping
+- Dynamic Forms
+- Sales
+- Purchase
+- Inventory
+- Accounting
+- GST
 
 ---
 
@@ -210,11 +188,11 @@ Mar 2024 – Sept 2024
 
 - Browser Based
 - Dynamic Components
-- Responsive Dashboard
+- Responsive UI
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -226,43 +204,33 @@ Mar 2024 – Sept 2024
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatAmb&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatAmb&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🛠 Technologies I Use Daily
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,typescript,javascript,tailwind,git,github,vscode,postman"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BharatAmb&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 📊 Coding Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BharatAmb&theme=github_dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BharatAmb&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BharatAmb&theme=algolia&margin-w=15"/>
-
-</p>
-
----
-
-# 🌍 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -288,8 +256,8 @@ Mar 2024 – Sept 2024
 
 <div align="center">
 
-### 💙 Building scalable web experiences with React & Next.js
+### 💙 "Building modern web applications with React & Next.js."
 
-<img src="https://komarev.com/ghpvc/?username=BharatAmb&style=for-the-badge&color=blue"/>
+⭐ If you like my work, consider following me!
 
 </div>
