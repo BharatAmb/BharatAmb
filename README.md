@@ -62,17 +62,6 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,styledcomponents,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=8"/>
 
-<br/><br/>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
 </div>
 
 ---
@@ -108,25 +97,19 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Production Projects
 
-| Project | Key Focus & Features | Link |
-| :--- | :--- | :---: |
-| **📊 Interactive Static Dashboard** | Feature-packed frontend dashboard with dynamic UI widgets and analytics. | [<kbd> Live Dashboard </kbd>](https://dashboard-nrsd.onrender.com/) |
-| **🎓 Multi Institute Edu Platform** | Course management, teacher/student dashboards, digital notes distribution, and multi-tier RBAC. | [<kbd> View Portfolio </kbd>](https://bharatjatav-portfolio.lovable.app/) |
-| **💻 Enterprise CRM Platform** | Dynamic form generator, sales/purchase pipeline, inventory management, and PDF report exports. | [<kbd> View Portfolio </kbd>](https://bharatjatav-portfolio.lovable.app/) |
-| **💻 Tally Simulation** | Interactive, browser-based Tally emulator with customizable keyboard navigation and dynamic state handling. | [<kbd> GitHub Repo </kbd>](https://github.com/BharatAmb) |
+| Project | Type | Core Highlights |
+| :--- | :---: | :--- |
+| **🏢 Commercial Enterprise CRM** | Company Production | Master data modules, lead-management tracking, GST calculation engine, inventory reporting across warehouses, dynamic PDF generation, and Excel export (SheetJS)[cite: 1]. |
+| **👥 EduHR — HR & Employee Platform** | Company Production | Employee onboarding workflows, real-time attendance management, custom-hook-based Role-Based Access Control (RBAC), and shared UI component library[cite: 1]. |
+| **🎓 Multi-Institute EduPlatform** | Commercial Client | Multi-institute portal supporting course management, teacher content creation, notes distribution, and multi-tier role-based UI access active across 3+ institutes[cite: 1]. |
+| **📊 Interactive Static Dashboard** | Open Showcase | Feature-packed frontend dashboard with dynamic UI widgets and analytics. <br/>👉 [<kbd> Live Dashboard </kbd>](https://dashboard-nrsd.onrender.com/) |
 
 ---
 
 ## 📈 GitHub Metrics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BharatAmb&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatAmb&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
