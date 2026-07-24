@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Replace with your raw image URL or relative path ./assets/banner.png -->
-  <img src="https://raw.githubusercontent.com/BharatAmb/BharatAmb/main/assets/banner.png" width="100%" alt="Bharat Jatav Banner"/>
+  <img src="./bannerfinal.png" width="100%" alt="Bharat Jatav Banner"/>
 
   <h1>Hi 👋, I'm Bharat Jatav</h1>
   <h3>Frontend Developer | React.js | Next.js | TypeScript</h3>
